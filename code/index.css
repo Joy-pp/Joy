@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: rgb(3, 35, 36);
+}
+h1{
+    font-family:'Crete Round';
+    font-size: 50px;
+   color: aliceblue;
+}
+.orange{
+    color:orangered;
+    font-size: 100px;
+ }
+ ul{
+    list-style: none;
+}
+header{
+    height: 120px;
+    
+}
+header h1{
+ float: left;
+ margin-top: 10px;
+ margin-left: 50px;
+ color: rgb(182, 243, 14);
+ font-size: 75px;
+}
+ header nav ul li a {
+    
+    color: white;
+    font-weight: bold;
+    margin-right: 20px;
+    float: right;
+    margin-top: 30px;
+    font-size: 30px;
+ }
+ a{
+    text-decoration: none;
+ }
+ p{
+    color: aliceblue;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+ }
+ .presentation{
+    margin-left: 50px;
+    color: rgb(10, 192, 131);
+    font-size: 50px;
+ }
+ .discuss{
+    margin-left: 50px;
+    color: rgb(0, 161, 182);
+    font-size: 50px;
+ }
+ .whatsup{
+    margin-left: 50px;
+    color: rgb(25, 170, 175);
+    font-size: 40px;
+ }
+ .questions{
+   margin-left: 50px;
+    color: rgb(13, 187, 199);
+    font-size: 40px;
+ }
+ #main-page{
+   background-color: rgb(31, 153, 0);
+   padding-bottom: 100px;
+ }
+ #possibilities{
+   background-color: rgba(50, 29, 170, 0.945);
+   margin-bottom: 50px;
+ }
+ #whatsup{
+   background-color: rgb(4, 18, 209);
+   margin-left: 50px;
+   margin-right: 50px;
+ }
+ #questions{
+   background-color: rgb(7, 17, 146);
+   margin-left: 50px;
+   margin-right: 50px;
+ }
+ .source{
+   margin-left: 50px;
+   color: rgb(39, 207, 236);
+   font-size: 40px;
+ }
+ #source{
+   background-color: rgb(5, 12, 109);
+   margin-left: 50px;
+   margin-right: 50px;
+ }
+ .finally{
+   margin-left: 50px;
+   color: rgb(171, 242, 255);
+   font-size: 40px;
+ }
+ #finally{
+   background-color: rgb(3, 7, 59);
+   margin-left: 50px;
+   margin-right: 50px;
+  margin-bottom: 50px;
+   
+ }
+ #info{
+   background-color: rgba(255, 208, 0, 0.945);
+
+ }
+ .break{
+   margin-left: 50px;
+   color: rgb(90, 100, 87);
+   font-size: 40px;
+ }
+ #cards{
+   display: flex;
+    justify-content: space-around;
+ }
+ .card{
+   margin-bottom: 100px;
+   margin-top: 50px;
+ }
+ .maj{
+   margin-left: 50px;
+   color: rgb(90, 100, 87);
+   font-size: 40px;
+ }
+ 
+ #insta{
+   margin-left: 40pc;
+   margin-bottom: 40px;
+   
+ }
